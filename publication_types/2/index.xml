@@ -7,20 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Matthew Yeung</copyright>
-    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Confined Liquid Phase Growth of Crystalline Semiconductors on Any Substrate (to be submitted)</title>
+      <title>Chemical Configurability in Hybrid Silver Selenolates (submitted)</title>
+      <link>https://matthewdyeung.github.io/publication/hybridmocha/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewdyeung.github.io/publication/hybridmocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confined Liquid Phase Growth of Crystalline Semiconductors on Any Substrate (submitted)</title>
       <link>https://matthewdyeung.github.io/publication/compoundscsonarbsubstrate/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewdyeung.github.io/publication/compoundscsonarbsubstrate/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mimicking Biological Synaptic Functionality withan Indium Phosphide Synaptic Device on Silicon for Scalable Neuromorphic Computing (submitted)</title>
+      <title>Mimicking Biological Synaptic Functionality withan Indium Phosphide Synaptic Device on Silicon for Scalable Neuromorphic Computing (under review)</title>
       <link>https://matthewdyeung.github.io/publication/neuromorphiccomputing/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
       
