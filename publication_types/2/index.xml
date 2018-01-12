@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Matthew Yeung</copyright>
-    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mimicking Biological Synaptic Functionality with an Indium Phosphide Synaptic Device on Silicon for Scalable Neuromorphic Computing</title>
+      <link>https://matthewdyeung.github.io/publication/neuromorphiccomputing/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewdyeung.github.io/publication/neuromorphiccomputing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chemical Configurability in Hybrid Silver Selenolates (submitted)</title>
@@ -25,15 +34,6 @@
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://matthewdyeung.github.io/publication/compoundscsonarbsubstrate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mimicking Biological Synaptic Functionality with an Indium Phosphide Synaptic Device on Silicon for Scalable Neuromorphic Computing (in press)</title>
-      <link>https://matthewdyeung.github.io/publication/neuromorphiccomputing/</link>
-      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://matthewdyeung.github.io/publication/neuromorphiccomputing/</guid>
       <description></description>
     </item>
     
