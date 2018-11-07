@@ -11,7 +11,16 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gas Phase Corrosion of Metal films to Hybrid Metal-Organic Chalcogenolates (under preparation)</title>
+      <title>Examining the Homologous Series of the Silver Benzenechalcogenolates (S, Se, Te) (Under preparation)</title>
+      <link>https://matthewdyeung.github.io/publication/homologousseries/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthewdyeung.github.io/publication/homologousseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Corrosion of Late- and Post-Transition Metals into Metal-Organic Chalcogenolate Assemblies (MOCHAs) (Submitted)</title>
       <link>https://matthewdyeung.github.io/publication/hybridpolymersbycorrosion/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Biphasic Solvothermal Crystallization of a Hybrid Lamellar 2D Material at Immiscible Liquid-Liquid Interfaces and the Competing Roles of Growth and Decomposition (submitted)</title>
+      <title>Competing Roles of Crystallization and Degradation of a Metal-Organic Chalcogenolate Assembly under Biphasic Solvothermal Conditions</title>
       <link>https://matthewdyeung.github.io/publication/solvothermalbiphasic/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
